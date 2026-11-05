@@ -1,0 +1,9 @@
+{
+  "id": "latin-hold",
+  "name": "Latin Hold",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.0",
+  "description": "Hold a letter for 500 ms, then use number keys to insert accented Latin characters without repeated input.",
+  "author": "komaki",
+  "isDesktopOnly": true
+}
